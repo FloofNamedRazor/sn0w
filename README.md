@@ -1,2 +1,2 @@
-# telexploit_jb
-jailbreak for 10.2.1
+sn0w jb
+jailbreak for 10.3.x
